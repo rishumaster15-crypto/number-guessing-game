@@ -48,13 +48,20 @@ File name example: number_guessing.c
 
 🏆 Scoring System
 Attempts Used	Points Awarded
-1	70
-2	60
-3	50
-4	40
-5	30
-6	20
-7	10
+1	50
+2	75
+3	85
+4	90
+5	95
+6	92
+7	91
+8 98
+9 99
+10 90
+11 90
+12 91
+13 94
+14 93
 🔮 Future Improvements (optional ideas)
 
 You can upgrade this project further by adding:
