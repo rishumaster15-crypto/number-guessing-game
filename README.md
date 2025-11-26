@@ -20,7 +20,7 @@ The game generates a random number between 1 and 100, and the player must guess 
 
 The computer picks a random number from 1 to 100
 
-You get 7 chances to guess the correct number
+You get 15 chances to guess the correct number
 
 After every wrong guess, a hint is given:
 
