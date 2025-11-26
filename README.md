@@ -12,7 +12,7 @@ The game generates a random number between 1 and 100, and the player must guess 
 
 📊 Scoring system (fewer attempts = more points)
 
-⏳ Limited attempts (7 per round)
+⏳ Limited attempts (12 per round)
 
 🔼 Hint system (too high / too low)
 
