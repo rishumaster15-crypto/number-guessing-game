@@ -57,11 +57,11 @@ Attempts Used	Points Awarded
 7	91
 8 98
 9 99
-10 90
-11 90
-12 91
-13 94
-14 93
+10  90
+11  90
+12  91
+13  94
+14  93
 🔮 Future Improvements (optional ideas)
 
 You can upgrade this project further by adding:
