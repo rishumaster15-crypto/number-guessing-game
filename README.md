@@ -55,8 +55,8 @@ Attempts Used	Points Awarded
 5	95
 6	92
 7	91
-8   98
-9   99
+8 98
+9 99
 10  90
 11  90
 12  91
